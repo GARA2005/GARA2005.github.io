@@ -96,8 +96,19 @@ footer {
 }
 form {
 	width:auto;
-	max-width:420px;
+	max-width:300px;
 	border:1px solid #1668C4;
 	margin:10px auto;
 	padding:10px;
+}
+
+.formulario{
+	
+	background-color: aqua;
+	position: relative;
+	margin-left: 65%;
+	margin-top: 76%;
+	margin-right: 100%;
+	width:35%;
+	bottom: 350px;
 }
